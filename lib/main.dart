@@ -3,7 +3,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:my_first_app/Lities/routes.dart';
 import 'package:my_first_app/Pages/home_page.dart';
 import 'package:my_first_app/Pages/login_page.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(MyApp());
